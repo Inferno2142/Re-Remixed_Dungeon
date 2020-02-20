@@ -1,4 +1,4 @@
-# Re-Remixed Dungeon
+# Re-Remixed Dungeona
 
 A Roguelike RPG, with randomly generated levels, items, enemies, and traps!
 Based on the source code of Pixel Dungeon by Watabou, and Shattered Pixel Dungeon by 00-Evan.
